@@ -33,3 +33,7 @@ RSpec.describe FalseClass do
     expect(!!!false).to be true
   end
 end
+
+RSpec.describe "Things that evaluate to boolean values" do
+  it
+end

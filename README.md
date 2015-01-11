@@ -44,6 +44,8 @@ Some operators 'evaluate to' true or false. For example, Equal (==), Not Equal
 (!=), Less than (<), More than (>), Less than or equal to (<=), More
 than or equal to (>=), Negation (!), OR (||), AND (&&).
 
+See code in and `spec/boolean_example_spec.rb`
+
 #### Strings
 A sequence of characters enclosed in a single quote or double quote.
 
