@@ -1,5 +1,5 @@
 RSpec.describe TrueClass do
-  it "is true" do
+  it 'is true' do
     expect(true).to be true
   end
 
@@ -17,7 +17,7 @@ RSpec.describe TrueClass do
 end
 
 RSpec.describe FalseClass do
-  it "is false" do
+  it 'is false' do
     expect(false).to be false
   end
 
@@ -34,6 +34,6 @@ RSpec.describe FalseClass do
   end
 end
 
-RSpec.describe "Things that evaluate to boolean values" do
+RSpec.describe 'Things that evaluate to boolean values' do
   it
 end
