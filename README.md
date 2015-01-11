@@ -12,7 +12,7 @@ By the end of this, students should be able to:
 
 ## Data Types
 
-Are represented by classes that are "built into" a language.
+Are represented by classes that are 'built into' a language.
 
 We'll look at Fixnum, Float, Boolean, String, Symbol and ranges
 today. We'll look at the Array and Hash data types tomorrow.
@@ -49,8 +49,8 @@ See code in and `spec/boolean_example_spec.rb`
 #### Strings
 A sequence of characters enclosed in a single quote or double quote.
 
-"simple string"
-"another simple string"
+'simple string'
+'another simple string'
 'third simple string with single quotes'
 
 #### Special Characters
