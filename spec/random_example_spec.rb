@@ -1,5 +1,3 @@
-require_relative '../lib/random_example'
-
 RSpec.describe Random do
   it 'Returns a Float between 0 and 1 by default' do
     expect(Random.rand).to be_a Float
