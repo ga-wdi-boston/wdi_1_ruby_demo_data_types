@@ -1,3 +1,4 @@
+# http://www.ruby-doc.org/core-2.2.0/Random.html
 RSpec.describe Random do
   it 'Returns a Float between 0 and 1 by default' do
     expect(Random.rand).to be_a Float

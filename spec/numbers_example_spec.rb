@@ -1,6 +1,7 @@
 require_relative '../lib/numbers_example'
 
-
+# http://www.ruby-doc.org/core-2.2.0/Fixnum.html
+# http://www.ruby-doc.org/core-2.2.0/Float.html
 RSpec.describe '#add_numbers' do
   it 'sums two Fixnums' do
     expect(add_numbers(2, 2)).to eq(4)

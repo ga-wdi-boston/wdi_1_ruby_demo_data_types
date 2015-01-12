@@ -58,49 +58,6 @@ A string may have one or more special characters.
 `'\n'  # newline`
 `'\t'  # tab`
 
-## Lab
-* Look up the Ruby classes for the above data types, Fixnum, Float, Boolean and String.
-* Learn a new method for each of these and explain it to your the student to your right.
-* Read about one of the to_<something> methods and explain it to the student to your left.
-
-## Variables
-Variables are pointers to objects. These objects we're going to reference here are of simple data types strings and numbers. But variables can reference an object of any data type.
-
-* A variable in Ruby is just a label that is a reference, or pointer to an object.
-* A variable name may only contain lowercase letters, numbers, and underscores.
-* A variable name should make sense in the context of your program. Don't use variable names that are meaningless like x, y, foo.
-
-### Demo/Code Along
-* Create a file variables.rb in the demo dir.
-
-## String Interpolation
-Allow variable names and expressions to be interpreted as strings inside of other strings.
-
-* uses the pound curly brace syntax  #{some_variable}
-
-### Demo
-* Create a `strings_interpolation.rb` in the demo dir.
-
-
-## Lab
-Create a file `vehicle_devaluate.rb` that create variables for.
-* your first name.
-* your last name.
-* the make/model of your first car, or bike.
-* the year you got it.
-* How much you payed for it.
-* How much it would be worth in the year 2018, given it devaluates by by 3 percent each year.
-* Replace the spaces in the file with the variables you created above and output the string using puts.
-
-## Input with gets
-The method gets will:
-* Wait for user input in the console/terminal.
-* Return the user input within the program when the user hits the return/enter key.
-
-Open `years_until_retire.rb` and run it.
-
-## Lab
-Do the above lab __BUT__ prompt the user for the value of each variable.
 
 ## Additional Resources
 

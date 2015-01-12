@@ -1,3 +1,4 @@
+# http://www.ruby-doc.org/core-2.2.0/String.html
 RSpec.describe String do
   it 'can be created with a literal using single or double quotes' do
     expect('I am a string').to be_a String
