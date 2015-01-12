@@ -114,3 +114,4 @@ List additional related resources such as videos, blog posts and official docume
 - [Official Float number documentation](http://ruby-doc.org/core-2.2.0/Float.html)
 - [Official Fixnum number documentation](http://ruby-doc.org/core-2.2.0/Fixnum.html)
 - [Official Literals documentation](http://ruby-doc.org/core-2.2.0/doc/syntax/literals_rdoc.html)
+- [Ruby Koans](https://github.com/ga-wdi-boston/wdi_1_ruby_exercise_ruby_koans)
